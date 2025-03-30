@@ -27,11 +27,7 @@ First in your server .env file
 Then in your client .env.local file
 
 `REACT_APP_BASE_URL`
-## Deployment
 
-The web App is deployed on heroku on the following link
-
-https://bugblog.netlify.app/
 
 
 
