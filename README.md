@@ -40,52 +40,7 @@ https://bugblog.netlify.app/
 
 **Client:** React, React-Bootstrap, Ck-Editor5
 
-**Server:** Node, Express, MongoDB
-
-**Deployment:**
-
-Fronted - Netlify
-
-Backend - Render
-
-  
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/Aaditya1978/Bug-Blog.git
-```
-
-Go to the project directory
-
-```bash
-  cd Bug-Blog
-```
-
-Install dependencies for Client And Server
-
-```bash
-  cd server
-  npm install
-
-  cd client
-  npm install
-```
-
-Set up the .env file for server ans .env.local for client
-
-Start the both server on seprate terminals
-
-```bash
-  cd server
-  npm run dev
-```
-
-```bash
-  cd client
-  npm start
-```
+**Server:** Node, Express
 
   
 ## Features

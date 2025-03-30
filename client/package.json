@@ -18,7 +18,7 @@
     "react-identicons": "^1.2.5",
     "react-loader-spinner": "^5.1.0",
     "react-router-dom": "^6.2.1",
-    "react-scripts": "5.0.0",
+    "react-scripts": "^5.0.0",
     "sanitize-html": "^2.6.1",
     "web-vitals": "^2.1.4"
   },
